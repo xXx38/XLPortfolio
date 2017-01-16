@@ -4,3 +4,5 @@ Name=tata
 Cash=0
 Operations=<0>0x
 Exchanges=<0>0x
+[Operations]
+=<0>
