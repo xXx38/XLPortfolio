@@ -1,3 +1,6 @@
+[FenêtreProjet_Données]
+ProjectExplorer.ClassicPosition[String] = "133,1365,895,1731"
+
 [AB_Cache_{96FCFFEE-92FF-41D7-8A5C-2E1B7D4F08B1}]
 Cache_Path[Path] Line0001 = "/C/Users/xlecoq/AppData/Local/Temp/AB_Cache_{96FCF"
 Cache_Path[Path] Line0002 = "FEE-92FF-41D7-8A5C-2E1B7D4F08B1}.txt"
@@ -5,7 +8,4 @@ Cache_Path[Path] Line0002 = "FEE-92FF-41D7-8A5C-2E1B7D4F08B1}.txt"
 [AB_Cache_{9236DFC5-A1BE-45C5-93F4-A12737594CB8}]
 Cache_Path[Path] Line0001 = "/C/Users/xlecoq/AppData/Local/Temp/AB_Cache_{9236D"
 Cache_Path[Path] Line0002 = "FC5-A1BE-45C5-93F4-A12737594CB8}.txt"
-
-[FenêtreProjet_Données]
-ProjectExplorer.ClassicPosition[String] = "133,1365,895,1731"
 
