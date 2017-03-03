@@ -22,7 +22,6 @@
 		<Item Name="XLPortfolio" Type="Folder" URL="..">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="CommandeX 1.xctl" Type="XControl" URL="../CommandeX 1.xctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Dictionary Create__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/dictionary/dictionary.llb/Dictionary Create__ogtk.vi"/>
@@ -203,6 +202,7 @@
 				<Property Name="App_INI_GUID" Type="Str">{F8BAE070-8383-465E-800B-3DF9D752A65B}</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{96FCFFEE-92FF-41D7-8A5C-2E1B7D4F08B1}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">XLPortfolio</Property>
+				<Property Name="Bld_defaultLanguage" Type="Str">French</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME</Property>
@@ -217,7 +217,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/XLPortfolio/favicon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C8D1E4D4-A5A0-4644-8F67-9B690C5245EF}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{DAFE618B-48C0-42DA-8AC8-3500EC31230F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/XLPortfolio/Main.vi</Property>
@@ -231,7 +231,7 @@
 				<Property Name="TgtF_companyName" Type="Str">XLCorp</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">XLPortfolio</Property>
 				<Property Name="TgtF_fileVersion.build" Type="Int">3</Property>
-				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
+				<Property Name="TgtF_fileVersion.minor" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">XLPortfolio</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © XLCorp 2017</Property>
 				<Property Name="TgtF_productName" Type="Str">XLPortfolio</Property>
