@@ -230,7 +230,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">XLCorp</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">XLPortfolio</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">3</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">4</Property>
 				<Property Name="TgtF_fileVersion.minor" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">XLPortfolio</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © XLCorp 2017</Property>
